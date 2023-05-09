@@ -2,7 +2,7 @@
 
 #### Using git bare
 
-Follow the explanation in [this video](https://www.youtube.com/watch?v=tBoLDpTWVOM).
+Follow [this video](https://www.youtube.com/watch?v=tBoLDpTWVOM).
 
 `git init --bare $HOME/dotfiles`
 
